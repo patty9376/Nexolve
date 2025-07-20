@@ -2,7 +2,7 @@
 
 # 🧠 Scientific Calculator 🧮
 
-Welcome to **Smart Calculator** – your intelligent, user-friendly, and feature-rich calculator designed for all your mathematical needs! Built with simplicity and performance in mind, it supports both **basic** and **scientific** operations🌍.
+Welcome to **Scientific Calculator** – your intelligent, user-friendly, and feature-rich calculator designed for all your mathematical needs! Built with simplicity and performance in mind, it supports both **basic** and **scientific** operations🌍.
 
 ---
 
